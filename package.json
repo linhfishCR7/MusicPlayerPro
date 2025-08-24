@@ -1,0 +1,23 @@
+{
+  "name": "com.lehau.musicplayerpro",
+  "displayName": "Music Player Pro",
+  "version": "1.0.0",
+  "description": "Advanced music player with playlist management, audio effects, and library organization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "LinhFish Development Team",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "cordova-android": "^14.0.1"
+  },
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  }
+}
