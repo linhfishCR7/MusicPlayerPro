@@ -1,0 +1,26 @@
+{
+  "name": "Music Player Pro",
+  "short_name": "MusicPlayerPro",
+  "description": "Advanced music player with playlist management, audio effects, and library organization",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4A90E2",
+  "icons": [
+    {
+      "src": "img/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "portrait",
+  "categories": [
+    "entertainment"
+  ],
+  "lang": "en"
+}
